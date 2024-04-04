@@ -3,7 +3,7 @@ weight: 3
 name_excel: "D3_TD_variable_condition.xlsx"
 description: "contains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active"
 slug: "D3_TD_variable_condition"
-datetime: 1.7122383e+09
+datetime: 1.7122402e+09
 title: D3_TD_variable_condition
 author: ''
 date: '2024-04-04'
