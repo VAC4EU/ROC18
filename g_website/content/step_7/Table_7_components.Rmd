@@ -1,0 +1,18 @@
+---
+weight: 9
+name_excel: "Table_7_components.xlsx"
+description: "`r get_description(rmarkdown::metadata$name_excel)`"
+slug: "Table_7_components"
+datetime: 1.7122384e+09
+title: Table_7_components
+author: ''
+date: '2024-04-04'
+categories: []
+tags: []
+archetype: codebook
+output: html_document
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+html_codebook(rmarkdown::metadata$name_excel)
+```
