@@ -1,5 +1,5 @@
 "file" "checksum"
-"C:/Users/Davide/Documents/Git repositories/Work/ROC18/i_codebooks/00_index.xlsx" "a35270ee2ad37e152de63ee4473fdaca"
+"C:/Users/Davide/Documents/Git repositories/Work/ROC18/i_codebooks/00_index.xlsx" "97b468d923cb39888746144b4fb43d1d"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18/i_codebooks/conceptsetdataset.xlsx" "1ee0bbba43e97236fa8e8ec7acf3da04"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18/i_codebooks/D3_ clean_all_vaccines.xlsx" "e0227617db8b49ceb0017a94203e4732"
 "C:/Users/Davide/Documents/Git repositories/Work/ROC18/i_codebooks/D3_all_vaccines_curated.xlsx" "f32848ed6a492a63e9043e723e08ed3f"
