@@ -6,13 +6,55 @@
     <description>Recent content in _index.en on CVM Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_7/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>D3_DU_PREGNANCY_COHORT_variables</title>
-      <link>/step_7/d3_du_pregnancy_cohort_variables/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_7/d3_du_pregnancy_cohort_variables/index.html</guid>
-      <description>MetadataData ModelParametersExamples</description>
+      <title>Table_1_flowchart</title>
+      <link>/step_7/table_1_flowchart/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_1_flowchart/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_2_code_counts</title>
+      <link>/step_7/table_2_code_counts/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_2_code_counts/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_3_population</title>
+      <link>/step_7/table_3_population/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_3_population/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_4_vaccination_prevalence</title>
+      <link>/step_7/table_4_vaccination_prevalence/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_4_vaccination_prevalence/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_5_events_IR</title>
+      <link>/step_7/table_5_events_ir/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_5_events_ir/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_6_events_prevalence</title>
+      <link>/step_7/table_6_events_prevalence/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_6_events_prevalence/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table_7_components</title>
+      <link>/step_7/table_7_components/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_7/table_7_components/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

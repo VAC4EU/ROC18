@@ -6,90 +6,34 @@
     <description>Recent content in _index.en on CVM Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/step_4/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>D5_N_women_and_ranges_MS</title>
-      <link>/step_4/d5_n_women_and_ranges_ms/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_n_women_and_ranges_ms/index.html</guid>
-      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_N_women_and_ranges_MS&#34;,&#34;values needed for Template 1 of the SAP: for each component, N of women, median time in study population and IQR (Years), and median and IQR age at study entry date&#34;</description>
+      <title>D3_Total_study_population</title>
+      <link>/step_4/d3_total_study_population/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_4/d3_total_study_population/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_Total_study_population&#34;,&#34;study population with entry and exit dates, date of birth, gender, dates and type of vaccinations&#34;,&#34;all persons in the study population D4_study_population&#34;,&#34;D4_study_population&#34;,&#34;1&#34;,&#34;person_id&#34;,&#34;person_id&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;medatata_name&#34;,&#34;name&#34;:&#34;medatata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;02274bbfc11cd1a9ddd29c06e6726226&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;VarName&#34;:[&#34;person_id&#34;,&#34;spell_start_date&#34;,&#34;study_exit_date&#34;,&#34;start_followup_study&#34;,&#34;date_vax_1&#34;,&#34;date_vax_2&#34;,&#34;date_vax_3&#34;,&#34;date_vax_4&#34;,&#34;type_vax_1&#34;,&#34;type_vax_2&#34;,&#34;type_vax_3&#34;,&#34;type_vax_4&#34;,&#34;sex&#34;,&#34;date_of_birth&#34;,&#34;date_of_death&#34;,null,null,null,null,null],&#34;Description&#34;:[&#34;person identifier&#34;,&#34;start of the observation period where the person was observed and that is used to identify the person study period&#34;</description>
     </item>
     <item>
-      <title>D5_N_women_and_ranges_MS_masked</title>
-      <link>/step_4/d5_n_women_and_ranges_ms_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_n_women_and_ranges_ms_masked/index.html</guid>
-      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D5_N_women_and_ranges_MS&#34;,&#34;values needed for Template 1 of the SAP: for each component, N of women, median time in study population and IQR (Years), and median and IQR age at study entry date&#34;</description>
+      <title>D3_study_population_cohort</title>
+      <link>/step_4/d3_study_population_cohort/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_4/d3_study_population_cohort/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_study_population_cohort&#34;,&#34;contains the baseline characteristics of the study population, for the cohort study&#34;,&#34;a person in the readiness study population (D4_study_population)&#34;,&#34;D4_study_population&#34;,&#34;1&#34;,&#34;person_id&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;id&#34;:&#34;medatata_name&#34;,&#34;name&#34;:&#34;medatata_name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;id&#34;:&#34;metadata_content&#34;,&#34;name&#34;:&#34;metadata_content&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;pagination&#34;:false,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:1800},&#34;height&#34;:&#34;600px&#34;,&#34;dataKey&#34;:&#34;6fd5413c9e02d90557a272b091f093ae&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;VarName&#34;:[&#34;person_id&#34;,&#34;sex&#34;,&#34;birth_date&#34;,&#34;age_at_study_entry&#34;,&#34;study_entry_date&#34;,&#34;study_exit_date&#34;,&#34;datasource&#34;,&#34;date_vax1&#34;,&#34;date_of_death&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;Description&#34;:[&#34;unique person identifier&#34;,&#34;sex at study start&#34;,&#34;birth date&#34;</description>
     </item>
     <item>
-      <title>D5_prevalence_period</title>
-      <link>/step_4/d5_prevalence_period/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_period/index.html</guid>
-      <description></description>
+      <title>D3_TD_variable_condition</title>
+      <link>/step_4/d3_td_variable_condition/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_4/d3_td_variable_condition/index.html</guid>
+      <description>MetadataData ModelParametersExamples{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_TD_variable_condition&#34;,&#34;contains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active&#34;</description>
     </item>
     <item>
-      <title>D5_prevalence_period_masked</title>
-      <link>/step_4/d5_prevalence_period_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_period_masked/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_persontime</title>
-      <link>/step_4/d5_prevalence_persontime/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_persontime/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_persontime_masked</title>
-      <link>/step_4/d5_prevalence_persontime_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_persontime_masked/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_average_point</title>
-      <link>/step_4/d5_prevalence_average_point/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_average_point/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_average_point_masked</title>
-      <link>/step_4/d5_prevalence_average_point_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_average_point_masked/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_aggregated_multiple_lookback</title>
-      <link>/step_4/d5_prevalence_aggregated_multiple_lookback/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_aggregated_multiple_lookback/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_aggregated_multiple_lookback_masked</title>
-      <link>/step_4/d5_prevalence_aggregated_multiple_lookback_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_aggregated_multiple_lookback_masked/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_aggregated_all</title>
-      <link>/step_4/d5_prevalence_aggregated_all/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_aggregated_all/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>D5_prevalence_aggregated_all_masked</title>
-      <link>/step_4/d5_prevalence_aggregated_all_masked/index.html</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/step_4/d5_prevalence_aggregated_all_masked/index.html</guid>
-      <description></description>
+      <title>D3_study_population_target_cohorts</title>
+      <link>/step_4/d3_study_population_target_cohorts/index.html</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/step_4/d3_study_population_target_cohorts/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_study_population_target_cohorts&#34;,&#34;contains the list of persons in the study population, with study entry and exit dates, and entry and exit from all the cohorts for incidence/prevalence and for coverage&#34;</description>
     </item>
   </channel>
 </rss>
