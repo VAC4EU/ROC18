@@ -29,10 +29,6 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_8/index.html</loc>
-    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_3/d3_events_outcomesim_simple/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +41,7 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_windows/index.html</loc>
-    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_8/d4_count_vaccination_weekly_prevalence/index.html</loc>
+    <loc>/step_5/d4_counts_persontime_yearly/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -57,7 +49,7 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_ir_background/index.html</loc>
+    <loc>/step_6/d5_ir_yearly/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -73,19 +65,15 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_cohort/index.html</loc>
+    <loc>/step_4/d3_td_all/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_prevalence/index.html</loc>
+    <loc>/step_5/d4_counts_persontime_yearly_aggregated/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_8/d4_vaccination_weekly_prevalence_aggregated/index.html</loc>
-    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_6/d5_ir_background_std/index.html</loc>
+    <loc>/step_6/d5_ir_yearly_std/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -105,15 +93,15 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_td_variable_condition/index.html</loc>
+    <loc>/step_4/d3_td_covariates_complete/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_events_prevalence_aggregated/index.html</loc>
+    <loc>/step_5/d4_count_events_point_prevalence/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_pre_background/index.html</loc>
+    <loc>/step_6/d5_pre_point_background/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -125,15 +113,15 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_target_cohorts/index.html</loc>
+    <loc>/step_4/d3_td_events_complete/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_monthly_prevalence_vaccination_cohorts/index.html</loc>
+    <loc>/step_5/d4_events_point_prevalence_aggregated/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_pre_background_std/index.html</loc>
+    <loc>/step_6/d5_pre_period_background/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -141,7 +129,19 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_vaccine_coverage_cohorts/index.html</loc>
+    <loc>/step_7/table_4_vaccination_prevalence/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_4/d3_study_population_target_cohorts/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_5/d4_count_events_period_prevalence/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_6/d5_pre_point_background_std/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -149,7 +149,15 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_vaccine_coverage_indicators/index.html</loc>
+    <loc>/step_7/table_5_events_ir/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_5/d4_events_period_prevalence_aggregated/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_6/d5_pre_period_background_std/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -157,7 +165,7 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_4_vaccination_prevalence/index.html</loc>
+    <loc>/step_7/table_6_events_prevalence/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -165,7 +173,15 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_5_events_ir/index.html</loc>
+    <loc>/step_5/d4_monthly_prevalence_vaccination_cohorts/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_6/d5_vaccine_coverage_cohorts/index.html</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/step_7/table_7_components/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -173,15 +189,11 @@
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_6_events_prevalence/index.html</loc>
+    <loc>/step_6/d5_vaccine_coverage_indicators/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/flowchart_criteria_for_doses/index.html</loc>
-    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_7/table_7_components/index.html</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url>
   <url>

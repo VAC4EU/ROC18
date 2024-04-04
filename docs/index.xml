@@ -40,26 +40,24 @@ QC_all_components_OUTCOMEOccurrence of components of the outcome OUTCOME during 
       <link>/step_4/index.html</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_4/index.html</guid>
-      <description>D3_Total_study_populationstudy population with entry and exit dates, date of birth, gender, dates and type of vaccinations
-D3_study_population_cohortcontains the baseline characteristics of the study population, for the cohort study
-D3_TD_variable_conditioncontains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active</description>
+      <description>D3_Total_study_populationstudy population with entry and exit dates, date of birth, gender, dates and type of vaccinations
+D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_target_cohortscontains the list of persons in the study population, with study entry and exit dates, and entry and exit from all the cohorts for incidence/prevalence and for coverage
+ </description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_5/index.html</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_5/index.html</guid>
-      <description>D4_count_events_windowscontains the counts of the AESIs observed within a specific time window (every 7 days until 28 days) after each vaccine
-D4_count_events_prevalenceD4_events_prevalence_aggregatedD4_monthly_prevalence_vaccination_cohorts </description>
+      <description>D4_counts_persontime_yearlyD4_counts_persontime_yearly_aggregatedD4_count_events_point_prevalenceD4_events_point_prevalence_aggregatedD4_count_events_period_prevalenceD4_events_period_prevalence_aggregatedD4_monthly_prevalence_vaccination_cohorts </description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_6/index.html</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_6/index.html</guid>
-      <description>D5_IR_backgroundbackground rates of AESIs, per presence or absence of history of COVID, age and sex, month and year
-D5_IR_background_stdage-standardised background rates of AESIs, in 2019 and 2020, per presence or absence of history of COVID; method: R-package dsr; standard: European population
-D5_Pre_backgroundPoint prevalence estimates will be calculated at the start of each year: the numerator is the persons with the disease in the year prior, denominator is all persons present at the start of each calendar year.</description>
+      <description>D5_IR_yearlyD5_IR_yearly_stdD5_Pre_point_backgroundD5_Pre_period_backgroundD5_Pre_point_background_stdD5_Pre_period_background_stdD5_vaccine_coverage_cohortsD5_vaccine_coverage_indicatorsNA
+ </description>
     </item>
     <item>
       <title>_index.en</title>
@@ -67,13 +65,6 @@ D5_Pre_backgroundPoint prevalence estimates will be calculated at the start of e
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_7/index.html</guid>
       <description>Table_1_flowchartTable_2_code_countsTable_3_populationTable_4_vaccination_prevalenceTable_5_events_IRTable_6_events_prevalenceTable_7_components </description>
-    </item>
-    <item>
-      <title>_index.en</title>
-      <link>/step_8/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/step_8/index.html</guid>
-      <description>D4_count_vaccination_weekly_prevalenceD4_vaccination_weekly_prevalence_aggregated </description>
     </item>
   </channel>
 </rss>

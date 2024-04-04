@@ -1,0 +1,18 @@
+---
+weight: 2
+name_excel: "D5_IR_yearly_std.xlsx"
+description: "`r get_description(rmarkdown::metadata$name_excel)`"
+slug: "D5_IR_yearly_std"
+datetime: 1.7122604e+09
+title: D5_IR_yearly_std
+author: ''
+date: '2024-04-04'
+categories: []
+tags: []
+archetype: codebook
+output: html_document
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+html_codebook(rmarkdown::metadata$name_excel)
+```
