@@ -3,10 +3,10 @@ weight: 1
 name_excel: "D3_events_OUTCOMESIM_simple.xlsx"
 description: "contains the outcomes observed in the study population, including negative outcomes but excluding covid and complex algorithms"
 slug: "D3_events_OUTCOMESIM_simple"
-datetime: 1.7122603e+09
+datetime: 1.7126524e+09
 title: D3_events_OUTCOMESIM_simple
 author: ''
-date: '2024-04-04'
+date: '2024-04-09'
 categories: []
 tags: []
 archetype: codebook

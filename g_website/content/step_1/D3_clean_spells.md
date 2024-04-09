@@ -3,10 +3,10 @@ weight: 13
 name_excel: "D3_clean_spells.xlsx"
 description: "contains the spells exited from CreateSpells plus their binary variables that are to be used for cleaning purposes version; spells that fall outside the interval between birth and death are cut, and op_start_date that start before the baby is 60 days are recasted to birth (to be checked with DAPs)"
 slug: "D3_clean_spells"
-datetime: 1.7122603e+09
+datetime: 1.7126524e+09
 title: D3_clean_spells
 author: ''
-date: '2024-04-04'
+date: '2024-04-09'
 categories: []
 tags: []
 archetype: codebook

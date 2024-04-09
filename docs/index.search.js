@@ -381,7 +381,7 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "CVM Documentation",
+    "title": "ROC18 Documentation",
     "uri": "/index.html"
   },
   {

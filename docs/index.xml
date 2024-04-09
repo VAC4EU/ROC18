@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CVM Documentation</title>
+    <title>ROC18 Documentation</title>
     <link>/index.html</link>
-    <description>Recent content on CVM Documentation</description>
+    <description>Recent content on ROC18 Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_index.en</title>
       <link>/step_1/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_1/index.html</guid>
       <description>D3_PERSONScontains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates
 D3_events_DEATHcontains the deaths observed in the study population
@@ -19,7 +19,7 @@ D3_output_spells_categorycontains the spells exited from CreateSpells, i.e., all
     <item>
       <title>_index.en</title>
       <link>/step_2/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_2/index.html</guid>
       <description>D4_study_populationcontains the list of persons in the study population, with study entry and exit dates
 Flowchart_exclusion_criteriaFlowchart of the exclusion of PERSONS from D3_PERSONS to the study population
@@ -28,7 +28,7 @@ Flowchart_exclusion_criteriaFlowchart of the exclusion of PERSONS from D3_PERSON
     <item>
       <title>_index.en</title>
       <link>/step_3/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_3/index.html</guid>
       <description>D3_events_OUTCOMESIM_simplecontains the outcomes observed in the study population, including negative outcomes but excluding covid and complex algorithms
 D3_events_OUTCOMECOMPL_complexcontains the outcomes observed in the study population, including only complex algorithms
@@ -38,7 +38,7 @@ QC_all_components_OUTCOMEOccurrence of components of the outcome OUTCOME during 
     <item>
       <title>_index.en</title>
       <link>/step_4/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_4/index.html</guid>
       <description>D3_Total_study_populationstudy population with entry and exit dates, date of birth, gender, dates and type of vaccinations
 D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_target_cohortscontains the list of persons in the study population, with study entry and exit dates, and entry and exit from all the cohorts for incidence/prevalence and for coverage
@@ -47,14 +47,14 @@ D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_ta
     <item>
       <title>_index.en</title>
       <link>/step_5/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_5/index.html</guid>
       <description>D4_counts_persontime_yearlyD4_counts_persontime_yearly_aggregatedD4_count_events_point_prevalenceD4_events_point_prevalence_aggregatedD4_count_events_period_prevalenceD4_events_period_prevalence_aggregatedD4_monthly_prevalence_vaccination_cohorts </description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_6/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_6/index.html</guid>
       <description>D5_IR_yearlyD5_IR_yearly_stdD5_Pre_point_backgroundD5_Pre_period_backgroundD5_Pre_point_background_stdD5_Pre_period_background_stdD5_vaccine_coverage_cohortsD5_vaccine_coverage_indicatorsNA
  </description>
@@ -62,7 +62,7 @@ D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_ta
     <item>
       <title>_index.en</title>
       <link>/step_7/index.html</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_7/index.html</guid>
       <description>Table_1_flowchartTable_2_code_countsTable_3_populationTable_4_vaccination_prevalenceTable_5_events_IRTable_6_events_prevalenceTable_7_components </description>
     </item>

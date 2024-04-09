@@ -3,10 +3,10 @@ weight: 9
 name_excel: "Flowchart_criteria_for_doses.xlsx"
 description: "Flowchart of the exlusion of covid vaccines records"
 slug: "Flowchart_criteria_for_doses"
-datetime: 1.7122603e+09
+datetime: 1.7126524e+09
 title: Flowchart_criteria_for_doses
 author: ''
-date: '2024-04-04'
+date: '2024-04-09'
 categories: []
 tags: []
 archetype: codebook
