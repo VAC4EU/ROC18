@@ -3,10 +3,10 @@ weight: 7
 name_excel: "D5_vaccine_coverage_cohorts.xlsx"
 description: "for each study cohort and each indicator: monthly prevalence and estimated monthly prevalence with inverse-probability weighting (Braeye et al, Vaccine. 2020)"
 slug: "D5_vaccine_coverage_cohorts"
-datetime: 1.712653e+09
+datetime: 1.7127556e+09
 title: D5_vaccine_coverage_cohorts
 author: ''
-date: '2024-04-09'
+date: '2024-04-10'
 categories: []
 tags: []
 archetype: codebook

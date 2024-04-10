@@ -3,10 +3,10 @@ weight: 2
 name_excel: "Flowchart_exclusion_criteria.xlsx"
 description: "Flowchart of the exclusion of PERSONS from D3_PERSONS to the study population"
 slug: "Flowchart_exclusion_criteria"
-datetime: 1.7126529e+09
+datetime: 1.7127556e+09
 title: Flowchart_exclusion_criteria
 author: ''
-date: '2024-04-09'
+date: '2024-04-10'
 categories: []
 tags: []
 archetype: codebook

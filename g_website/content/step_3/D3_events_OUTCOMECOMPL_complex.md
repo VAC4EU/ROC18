@@ -3,10 +3,10 @@ weight: 2
 name_excel: "D3_events_OUTCOMECOMPL_complex.xlsx"
 description: "contains the outcomes observed in the study population, including only complex algorithms"
 slug: "D3_events_OUTCOMECOMPL_complex"
-datetime: 1.7126529e+09
+datetime: 1.7127556e+09
 title: D3_events_OUTCOMECOMPL_complex
 author: ''
-date: '2024-04-09'
+date: '2024-04-10'
 categories: []
 tags: []
 archetype: codebook

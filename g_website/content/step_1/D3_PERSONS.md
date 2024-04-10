@@ -3,10 +3,10 @@ weight: 1
 name_excel: "D3_PERSONS.xlsx"
 description: "contains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates"
 slug: "D3_PERSONS"
-datetime: 1.7126529e+09
+datetime: 1.7127556e+09
 title: D3_PERSONS
 author: ''
-date: '2024-04-09'
+date: '2024-04-10'
 categories: []
 tags: []
 archetype: codebook
