@@ -1,5 +1,5 @@
 publishDir: '../docs'
-baseURL: https://davidemessinaars.github.io/test_website/
+baseURL: https://vac4eu.github.io/ROC18/
 canonifyURLs: yes
 relativeURLs: yes
 uglyURLs: no
@@ -9,7 +9,7 @@ defaultContentLanguage: en
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 permalinks:
   data-models: /:slug/
-title: CVM Documentation
+title: ROC18 Documentation
 outputs:
   home:
     - HTML
@@ -45,19 +45,19 @@ languages:
       shortcuts:
         - identifier: diagram 
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/DP3-MS-SLE/diagram.html
+          url: https://vac4eu.github.io/ROC18/diagram.html
           weight: 10
         - identifier: diagram draft
           name: <i class='fas fa-project-diagram'></i> Diagram
-          url: https://imi-conception.github.io/DP3-MS-SLE/diagram_draft.html
+          url: https://vac4eu.github.io/ROC18/diagram_draft.html
           weight: 10
         - identifier: ds
           name: <i class='fab fa-fw fa-github'></i> GitHub repo
-          url: https://github.com/VAC4EU/CVM
+          url: https://github.com/VAC4EU/ROC18
           weight: 11
         - identifier: link_script
           name: <i class='fas fa-link'></i> Related scripts
-          url: https://github.com/VAC4EU/CVM/wiki/Covid-Readiness-Monitoring-final-scripts-repository
+          url: https://github.com/VAC4EU/ROC18/wiki/
           weight: 12
         - identifier: vac4eu
           name: <i class='fas fa-fw fa-syringe'></i> VAC4EU
@@ -65,7 +65,7 @@ languages:
           weight: 13
     params:
       landingPageName: <i class='fas fa-home'></i> Home
-    title: CVM Documentation
+    title: ROC18 Documentation
     weight: 1
   pir:
     languageName: Arrr! ☠ Pirrrates ☠
@@ -121,7 +121,7 @@ params:
   author: ARS Tuscany
   breadcrumbSeparator: '>'
   collapsibleMenu: yes
-  description: CVM Documentation
+  description: ROC18 Documentation
   disableAssetsBusting: yes
   disableBreadcrumb: no
   disableInlineCopyToClipBoard: yes

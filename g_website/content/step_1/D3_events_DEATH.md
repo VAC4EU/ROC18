@@ -3,10 +3,10 @@ weight: 2
 name_excel: "D3_events_DEATH.xlsx"
 description: "contains the deaths observed in the study population"
 slug: "D3_events_DEATH"
-datetime: 1.7122603e+09
+datetime: 1.7126529e+09
 title: D3_events_DEATH
 author: ''
-date: '2024-04-04'
+date: '2024-04-09'
 categories: []
 tags: []
 archetype: codebook

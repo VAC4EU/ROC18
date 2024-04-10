@@ -3,10 +3,10 @@ weight: 5
 name_excel: "D3_study_population_target_cohorts.xlsx"
 description: "contains the list of persons in the study population, with study entry and exit dates, and entry and exit from all the cohorts for incidence/prevalence and for coverage"
 slug: "D3_study_population_target_cohorts"
-datetime: 1.7122603e+09
+datetime: 1.7126529e+09
 title: D3_study_population_target_cohorts
 author: ''
-date: '2024-04-04'
+date: '2024-04-09'
 categories: []
 tags: []
 archetype: codebook
