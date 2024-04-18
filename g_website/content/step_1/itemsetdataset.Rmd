@@ -3,7 +3,7 @@ weight: 5
 name_excel: "itemsetdataset.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "itemsetdataset"
-datetime: 1.7134463e+09
+datetime: 1.7134467e+09
 title: itemsetdataset
 author: ''
 date: '2024-04-18'

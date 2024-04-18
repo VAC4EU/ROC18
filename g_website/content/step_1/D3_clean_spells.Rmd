@@ -3,7 +3,7 @@ weight: 13
 name_excel: "D3_clean_spells.xlsx"
 description: "`r get_description(rmarkdown::metadata$name_excel)`"
 slug: "D3_clean_spells"
-datetime: 1.7134463e+09
+datetime: 1.7134467e+09
 title: D3_clean_spells
 author: ''
 date: '2024-04-18'
