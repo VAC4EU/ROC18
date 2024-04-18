@@ -3,7 +3,7 @@ weight: 4
 name_excel: "QC_all_components_OUTCOME.xlsx"
 description: "Occurrence of components of the outcome OUTCOME during 2019 (and to be dropped, during one year of lookback), per  meaning, to all persons in the study population at 1/1/2019 or entering during 2019"
 slug: "QC_all_components_OUTCOME"
-datetime: 1.7134327e+09
+datetime: 1.7134365e+09
 title: QC_all_components_OUTCOME
 author: ''
 date: '2024-04-18'
