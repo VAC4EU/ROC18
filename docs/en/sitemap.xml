@@ -41,7 +41,7 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_counts_persontime_yearly/index.html</loc>
+    <loc>/step_5/d4_monthly_prevalence_vaccination_cohort/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -69,10 +69,6 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_counts_persontime_yearly_aggregated/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d5_ir_yearly_std/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -97,10 +93,6 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_point_prevalence/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d5_pre_point_background/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -117,10 +109,6 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_events_point_prevalence_aggregated/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d5_pre_period_background/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -133,19 +121,11 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_period_prevalence/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>/step_6/d5_pre_point_background_std/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>/step_1/itemsetdataset/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_5/d4_events_period_prevalence_aggregated/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -158,10 +138,6 @@
   </url>
   <url>
     <loc>/step_1/d3_clean_vaccines/index.html</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>/step_5/d4_monthly_prevalence_vaccination_cohort/index.html</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url>
   <url>

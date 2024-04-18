@@ -3,7 +3,7 @@ weight: 2
 name_excel: "D3_events_DEATH.xlsx"
 description: "contains the deaths observed in the study population"
 slug: "D3_events_DEATH"
-datetime: 1.7134449e+09
+datetime: 1.7134463e+09
 title: D3_events_DEATH
 author: ''
 date: '2024-04-18'

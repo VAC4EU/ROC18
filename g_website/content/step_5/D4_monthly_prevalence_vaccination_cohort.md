@@ -1,9 +1,9 @@
 ---
-weight: 7
+weight: 1
 name_excel: "D4_monthly_prevalence_vaccination_cohort.xlsx"
 description: "for each study cohort and each indicator: persons in the cohort at entry and monthly, monthly prevalence of use of vaccine, and cumulative prevalence of use of vaccine"
 slug: "D4_monthly_prevalence_vaccination_cohort"
-datetime: 1.7134449e+09
+datetime: 1.7134463e+09
 title: D4_monthly_prevalence_vaccination_cohort
 author: ''
 date: '2024-04-18'
