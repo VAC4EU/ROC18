@@ -3,7 +3,7 @@ weight: 3
 name_excel: "D3_events_ALL_OUTCOMES.xlsx"
 description: "contains the outcomes observed in the study population, including negative outcomes but excluding covid"
 slug: "D3_events_ALL_OUTCOMES"
-datetime: 1.7134467e+09
+datetime: 1.7134471e+09
 title: D3_events_ALL_OUTCOMES
 author: ''
 date: '2024-04-18'
