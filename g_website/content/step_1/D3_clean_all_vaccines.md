@@ -3,10 +3,10 @@ weight: 10
 name_excel: "D3_clean_all_vaccines.xlsx"
 description: "This dataset contains all the records of non-COVID vaccines in Table 4 of the SAP, including their imputation and modifications and exclusion criteria."
 slug: "D3_clean_all_vaccines"
-datetime: 1.7127556e+09
+datetime: 1.7134327e+09
 title: D3_clean_all_vaccines
 author: ''
-date: '2024-04-10'
+date: '2024-04-18'
 categories: []
 tags: []
 archetype: codebook

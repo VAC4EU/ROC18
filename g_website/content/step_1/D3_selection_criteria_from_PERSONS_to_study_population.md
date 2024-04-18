@@ -3,10 +3,10 @@ weight: 14
 name_excel: "D3_selection_criteria_from_PERSONS_to_study_population.xlsx"
 description: "contains the exclusion criteria to go from PERSONS to the study population"
 slug: "D3_selection_criteria_from_PERSONS_to_study_population"
-datetime: 1.7127556e+09
+datetime: 1.7134327e+09
 title: D3_selection_criteria_from_PERSONS_to_study_population
 author: ''
-date: '2024-04-10'
+date: '2024-04-18'
 categories: []
 tags: []
 archetype: codebook

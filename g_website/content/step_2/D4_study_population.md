@@ -3,10 +3,10 @@ weight: 1
 name_excel: "D4_study_population.xlsx"
 description: "contains the list of persons in the study population, with study entry and exit dates"
 slug: "D4_study_population"
-datetime: 1.7127556e+09
+datetime: 1.7134327e+09
 title: D4_study_population
 author: ''
-date: '2024-04-10'
+date: '2024-04-18'
 categories: []
 tags: []
 archetype: codebook
