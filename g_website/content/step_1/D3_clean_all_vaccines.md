@@ -3,10 +3,10 @@ weight: 10
 name_excel: "D3_clean_all_vaccines.xlsx"
 description: "This dataset contains the records of all the curated doses of all vaccines in the instance listed in Table 4 of the SAP, including the curated covid vaccines. It is obtained from the original conceptsets datastes by replicating each vaccination record as many times as the indicators that it is used for, see the first example in the tab Example: a record with Vacco Id DIP-HIB-PER-POL-TET is replicated 3 times, once per the indicator DPT, once per the indicator HiB, and once for the indicator Pol. Then, each record is labelled with various exclusion citeria, most importantly, records with dats 30 daya apart form a previous record as marked as 'duplicates'. In the next step, all the record labelled as 'removed row' will be removed"
 slug: "D3_clean_all_vaccines"
-datetime: 1.7134499e+09
+datetime: 1.7210461e+09
 title: D3_clean_all_vaccines
 author: ''
-date: '2024-04-18'
+date: '2024-07-15'
 categories: []
 tags: []
 archetype: codebook
@@ -16,7 +16,7 @@ output: html_document
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
 <script src="/rmarkdown-libs/react/react.min.js"></script>
 <script src="/rmarkdown-libs/react/react-dom.min.js"></script>
-<script src="/rmarkdown-libs/reactwidget/react-tools.js"></script>
+<script src="/rmarkdown-libs/reactwidget/react-tools.umd.cjs"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/reactable-binding/reactable.js"></script>
