@@ -1,0 +1,5 @@
+person_id,vx_record_date,vx_admin_date,vx_atc,vx_type,vx_text,medicinal_product_id,origin_of_vx_record,meaning_of_vx_record,vx_dose,vx_manufacturer,vx_lot_num,visit_occurrence_id
+ROC1800000001,20201208,20201208,,dapipvtet,"",049283017,VCN,administration_of_vaccine_unspecified,1,,FC5089,""
+ROC1800000001,20210408,20210408,,dapipvtet,"",049283017,VCN,administration_of_vaccine_unspecified,2,,FC5089,""
+ROC1800000002,20201008,20201008,J07BB,,"",049283017,VCN,administration_of_vaccine_unspecified,2,,FC5089,""
+ROC1800000003,20191008,20191008,,dptet,"",049283017,VCN,administration_of_vaccine_unspecified,2,,FC5089,""

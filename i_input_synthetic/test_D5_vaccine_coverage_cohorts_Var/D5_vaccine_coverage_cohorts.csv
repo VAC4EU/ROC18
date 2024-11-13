@@ -1,0 +1,99 @@
+type_of_cohort,cohort_label,month_fup,indicator,PP_month,IPW_month,NFUP_masked,NFUP_month_masked,Vacc_observed_month_masked
+birth24,2017,1,Varicella,0,0,39,39,0
+birth24,2017,2,Varicella,0,0,39,39,0
+birth24,2017,3,Varicella,0,0,39,39,0
+birth24,2017,4,Varicella,0,0,39,39,0
+birth24,2017,5,Varicella,0,0,39,39,0
+birth24,2017,6,Varicella,0,0,39,39,0
+birth24,2017,7,Varicella,0,0,39,39,0
+birth24,2017,8,Varicella,0,0,39,39,0
+birth24,2017,9,Varicella,0,0,39,39,0
+birth24,2017,10,Varicella,0,0,39,39,0
+birth24,2017,11,Varicella,0,0,39,39,0
+birth24,2017,12,Varicella,0,0,39,39,0
+birth24,2017,13,Varicella,0.026,0.026,39,39,< 5
+birth24,2017,14,Varicella,0.051,0.051,39,39,< 5
+birth24,2017,15,Varicella,0.077,0.077,39,39,< 5
+birth24,2017,16,Varicella,0.103,0.103,39,39,< 5
+birth24,2017,17,Varicella,0.128,0.128,39,39,< 5
+birth24,2017,18,Varicella,0.128,0.128,39,39,0
+birth24,2017,19,Varicella,0.128,0.128,39,39,0
+birth24,2017,20,Varicella,0.128,0.128,39,39,0
+birth24,2017,21,Varicella,0.154,0.154,39,39,< 5
+birth24,2017,22,Varicella,0.154,0.154,39,39,0
+birth24,2017,23,Varicella,0.154,0.154,39,39,0
+birth24,2017,24,Varicella,0.179,0.179,39,39,< 5
+birth24,2018,1,Varicella,0,0,54,54,0
+birth24,2018,2,Varicella,0,0,54,54,0
+birth24,2018,3,Varicella,0,0,54,54,0
+birth24,2018,4,Varicella,0,0,54,54,0
+birth24,2018,5,Varicella,0,0,54,54,0
+birth24,2018,6,Varicella,0,0,54,54,0
+birth24,2018,7,Varicella,0,0,54,54,0
+birth24,2018,8,Varicella,0,0,54,54,0
+birth24,2018,9,Varicella,0,0,54,54,0
+birth24,2018,10,Varicella,0,0,54,54,0
+birth24,2018,11,Varicella,0,0,54,53,0
+birth24,2018,12,Varicella,0,0,54,53,0
+birth24,2018,13,Varicella,0.019,0.019,54,53,< 5
+birth24,2018,14,Varicella,0.038,0.038,54,52,< 5
+birth24,2018,15,Varicella,0.059,0.058,54,51,< 5
+birth24,2018,16,Varicella,0.059,0.058,54,51,0
+birth24,2018,17,Varicella,0.078,0.077,54,51,< 5
+birth24,2018,18,Varicella,0.08,0.077,54,50,0
+birth24,2018,19,Varicella,0.1,0.097,54,50,< 5
+birth24,2018,20,Varicella,0.1,0.097,54,50,0
+birth24,2018,21,Varicella,0.1,0.097,54,50,0
+birth24,2018,22,Varicella,0.102,0.097,54,49,0
+birth24,2018,23,Varicella,0.102,0.097,54,49,0
+birth24,2018,24,Varicella,0.163,0.159,54,49,< 5
+birth24,2019,1,Varicella,0,0,52,52,0
+birth24,2019,2,Varicella,0,0,52,52,0
+birth24,2019,3,Varicella,0,0,52,51,0
+birth24,2019,4,Varicella,0,0,52,51,0
+birth24,2019,5,Varicella,0,0,52,51,0
+birth24,2019,6,Varicella,0,0,52,51,0
+birth24,2019,7,Varicella,0,0,52,51,0
+birth24,2019,8,Varicella,0,0,52,51,0
+birth24,2019,9,Varicella,0,0,52,49,0
+birth24,2019,10,Varicella,0,0,52,49,0
+birth24,2019,11,Varicella,0,0,52,49,0
+birth24,2019,12,Varicella,0,0,52,49,0
+birth24,2019,13,Varicella,0,0,52,49,0
+birth24,2019,14,Varicella,0,0,52,49,0
+birth24,2019,15,Varicella,0.021,0.021,52,47,< 5
+birth24,2019,16,Varicella,0.022,0.021,52,46,0
+birth24,2019,17,Varicella,0.022,0.021,52,45,0
+birth24,2019,18,Varicella,0.023,0.021,52,44,0
+birth24,2019,19,Varicella,0.023,0.021,52,44,0
+birth24,2019,20,Varicella,0.023,0.021,52,43,0
+birth24,2019,21,Varicella,0.026,0.021,52,38,0
+birth24,2019,22,Varicella,0.029,0.021,52,35,0
+birth24,2019,23,Varicella,0.029,0.021,52,34,0
+birth24,2019,24,Varicella,0.03,0.021,52,33,0
+birth24,2020,1,Varicella,0,0,45,45,0
+birth24,2020,2,Varicella,0,0,45,45,0
+birth24,2020,3,Varicella,0,0,45,45,0
+birth24,2020,4,Varicella,0,0,45,45,0
+birth24,2020,5,Varicella,0,0,45,45,0
+birth24,2020,6,Varicella,0,0,45,45,0
+birth24,2020,7,Varicella,0,0,45,45,0
+birth24,2020,8,Varicella,0,0,45,44,0
+birth24,2020,9,Varicella,0,0,45,39,0
+birth24,2020,10,Varicella,0,0,45,33,0
+birth24,2020,11,Varicella,0,0,45,30,0
+birth24,2020,12,Varicella,0,0,45,26,0
+birth24,2020,13,Varicella,0,0,45,25,0
+birth24,2020,14,Varicella,0,0,45,23,0
+birth24,2020,15,Varicella,0,0,45,21,0
+birth24,2020,16,Varicella,0,0,45,16,0
+birth24,2020,17,Varicella,0,0,45,13,0
+birth24,2020,18,Varicella,0,0,45,8,0
+birth24,2020,19,Varicella,0,0,45,< 5,0
+birth24,2021,1,Varicella,0,0,20,20,0
+birth24,2021,2,Varicella,0,0,20,20,0
+birth24,2021,3,Varicella,0,0,20,18,0
+birth24,2021,4,Varicella,0,0,20,12,0
+birth24,2021,5,Varicella,0,0,20,10,0
+birth24,2021,6,Varicella,0,0,20,9,0
+birth24,2021,7,Varicella,0,0,20,6,0

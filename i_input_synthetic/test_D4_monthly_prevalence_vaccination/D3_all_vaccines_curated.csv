@@ -1,0 +1,11 @@
+person_id;date_curated;dose_curated;manufacturer_curated;vacco_id;root_indicator
+P001;20210502;1;;DIP-PER-TET;DTP
+P001;20210727;2;;DIP-PER-TET;DTP
+P001;20210727;1;;MEA;MCV
+P002;20210820;1;pfizer;COV;Coronavirus
+P002;20210730;2;pfizer;COV;Coronavirus
+P002;20220730;1;;HPV;HPV
+P003;20210101;1;astrazeneca;COV;Coronavirus
+P003;20210125;2;astrazeneca;COV;Coronavirus
+P003;20210401;3;pfizer;COV;Coronavirus
+P003;20211012;4;moderna;COV;Coronavirus

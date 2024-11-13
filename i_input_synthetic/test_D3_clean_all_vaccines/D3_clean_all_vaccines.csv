@@ -1,0 +1,5 @@
+person_id,date,vx_record_date,vx_dose,vx_manufacturer,date_curated,manufacturer_curated,concept_vacco_id,vacco_id,root_indicator,duplicated_records,removed_row,missing_date,distance_too_short,duplicated_records_final,dose_curated,imputed_dose
+P1,2019-01-01,2019-01-01,1,0,2019-01-01,unk,DIP_HEB_HIB_PER_POL_TETVXTYPE,DIP_HEB_HIB_PER_POL_TET,DTP,0,0,0,0,0,1,FALSE
+P1,2019-01-01,2019-01-01,1,0,2019-01-01,unk,DIP_HEB_HIB_PER_POL_TETVXTYPE,DIP_HEB_HIB_PER_POL_TET,HepB,1,1,0,0,0,0,FALSE
+P1,2019-01-01,2019-01-01,1,0,2019-01-01,unk,DIP_HEB_HIB_PER_POL_TETVXTYPE,DIP_HEB_HIB_PER_POL_TET,Hib,1,1,0,0,0,0,FALSE
+P1,2019-01-01,2019-01-01,1,0,2019-01-01,unk,DIP_HEB_HIB_PER_POL_TETVXTYPE,DIP_HEB_HIB_PER_POL_TET,Pol,1,1,0,0,0,0,FALSE
