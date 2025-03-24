@@ -346,13 +346,6 @@ var relearn_search_index = [
     "content": "",
     "description": "",
     "tags": null,
-    "title": "ROC18 Documentation",
-    "uri": "/index.html"
-  },
-  {
-    "content": "",
-    "description": "",
-    "tags": null,
     "title": "Categories",
     "uri": "/categories/index.html"
   },
