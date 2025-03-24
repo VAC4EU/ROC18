@@ -139,9 +139,9 @@ div.main-container {
 <h2><a href="../step_1/d3_clean_vaccines/index.html">D3_clean_vaccines</a></h2><p>This dataset contains all the records of a COVID vaccine, including their imputation and modifications and exclusion criteria. Exclusion criteria must be applied before using the variable in the next steps</p>
 <h2><a href="../step_1/d3_vaccines_curated/index.html">D3_vaccines_curated</a></h2><p>This dataset contains only the records of  a COVID vaccine that enter the study</p>
 <h2><a href="../step_1/flowchart_criteria_for_doses/index.html">Flowchart_criteria_for_doses</a></h2><p>Flowchart of the exlusion of covid vaccines records</p>
+<h2><a href="../step_1/flowchart_criteria_for_all_vaccines/index.html">Flowchart_criteria_for_all_vaccines</a></h2><p>Flowchart of the exlusion of all vaccines records</p>
 <h2><a href="../step_1/d3_clean_all_vaccines/index.html">D3_clean_all_vaccines</a></h2><p>This dataset contains the records of all the curated doses of all vaccines in the instance listed in Table 4 of the SAP, including the curated covid vaccines. It is obtained from the original conceptsets datastes by replicating each vaccination record as many times as the indicators that it is used for, see the first example in the tab Example: a record with Vacco Id DIP-HIB-PER-POL-TET is replicated 3 times, once per the indicator DPT, once per the indicator HiB, and once for the indicator Pol. Then, each record is labelled with various exclusion citeria, most importantly, records with dats 30 daya apart form a previous record as marked as &#39;duplicates&#39;. In the next step, all the record labelled as &#39;removed row&#39; will be removed</p>
 <h2><a href="../step_1/d3_all_vaccines_curated/index.html">D3_all_vaccines_curated</a></h2><p>This dataset contains the records of all the curated doses of all roots of indicators in the instance listed in Table 7 of the SAP. Doses of covid vaccines are included. It is obtained by D3_clean_all_vaccines by excluding records that are duplicates or of bad quality, and after appending the curated covid vaccines</p>
-<h2><a href="../step_1/flowchart_criteria_for_all_vaccines/index.html">Flowchart_criteria_for_all_vaccines</a></h2><p></p>
 <h2><a href="../step_1/d3_clean_spells/index.html">D3_clean_spells</a></h2><p>contains the spells exited from CreateSpells plus their binary variables that are to be used for cleaning purposes version; spells that fall outside the interval between birth and death are cut, and op_start_date that start before the baby is 60 days are recasted to birth (to be checked with DAPs)</p>
 <h2><a href="../step_1/d3_selection_criteria_from_persons_to_study_population/index.html">D3_selection_criteria_from_PERSONS_to_study_population</a></h2><p>contains the exclusion criteria to go from PERSONS to the study population</p>
 </div>
@@ -460,6 +460,46 @@ div.main-container {
           <article class="codebook">
             <header class="headline">
             </header>
+<h1 id="flowchart_criteria_for_all_vaccines">Flowchart_criteria_for_all_vaccines</h1>
+
+<script src="../rmarkdown-libs/core-js/shim.min.js"></script>
+<script src="../rmarkdown-libs/react/react.min.js"></script>
+<script src="../rmarkdown-libs/react/react-dom.min.js"></script>
+<script src="../rmarkdown-libs/reactwidget/react-tools.js"></script>
+<script src="../rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="../rmarkdown-libs/reactable/reactable.css" rel="stylesheet" />
+<script src="../rmarkdown-libs/reactable-binding/reactable.js"></script>
+<div class="tab">
+<button class="tablinks" onclick="openCity(event, &#39;Metadata&#39;)" id="defaultOpen">Metadata</button>
+<button class="tablinks" onclick="openCity(event, &#39;Data Model&#39;)">Data Model</button>
+<button class="tablinks" onclick="openCity(event, &#39;Parameters&#39;)">Parameters</button>
+<button class="tablinks" onclick="openCity(event, &#39;Example&#39;)">Example</button>
+</div>
+<div id="Metadata" class="tabcontent">
+<div id="htmlwidget-1" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["Flowchart_criteria_for_all_vaccines","Flowchart of the exlusion of all vaccines records","criteria",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"65019b2571d28687df72c898481e6e14"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Data Model" class="tabcontent">
+<div id="htmlwidget-2" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"VarName":["criteria","N",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Description":[null,"frequency of the combination",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Format":["binary",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Vocabulary":["0 = if all the previous value on the same row are 1 then N refers to this column\r\n1= otherwise",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Parameters":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Notes and examples":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Source tables and variables":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Retrieved":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Calculated":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Algorithm_id":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"Rule":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"VarName","name":"VarName","type":"character"},{"id":"Description","name":"Description","type":"character"},{"id":"Format","name":"Format","type":"character"},{"id":"Vocabulary","name":"Vocabulary","type":"character"},{"id":"Parameters","name":"Parameters","type":"logical"},{"id":"Notes and examples","name":"Notes and examples","type":"logical"},{"id":"Source tables and variables","name":"Source tables and variables","type":"logical"},{"id":"Retrieved","name":"Retrieved","type":"logical"},{"id":"Calculated","name":"Calculated","type":"logical"},{"id":"Algorithm_id","name":"Algorithm_id","type":"logical"},{"id":"Rule","name":"Rule","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"6fd3c6475e76696d8eb9feead1e110b3"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Parameters" class="tabcontent">
+<div id="htmlwidget-3" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"parameter in the variable name":["criteria","criteria","criteria","criteria",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"values":["A_duplicated_records","B_missing_date","C_distance_too_short","D_duplicated_records_final",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"name of macro":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"parameter in the variable name","name":"parameter in the variable name","type":"character"},{"id":"values","name":"values","type":"character"},{"id":"name of macro","name":"name of macro","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"20371db9321e4785e8ff28cdb2bd184a"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="Example" class="tabcontent">
+<div id="htmlwidget-4" class="reactable html-widget" style="width:auto;height:600px;"></div>
+<script type="application/json" data-for="htmlwidget-4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"A_duplicated_records":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"B_missing_date":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"C_distance_too_short":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"D_duplicated_records_final":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"A_duplicated_records","name":"A_duplicated_records","type":"logical"},{"id":"B_missing_date","name":"B_missing_date","type":"logical"},{"id":"C_distance_too_short","name":"C_distance_too_short","type":"logical"},{"id":"D_duplicated_records_final","name":"D_duplicated_records_final","type":"logical"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"25f8061292a4a3b2da10364beca18936"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+
+            <footer class="footline">
+
+            </footer>
+          </article>
+
+          <article class="codebook">
+            <header class="headline">
+            </header>
 <h1 id="d3_clean_all_vaccines">D3_clean_all_vaccines</h1>
 
 <script src="../rmarkdown-libs/core-js/shim.min.js"></script>
@@ -531,18 +571,6 @@ div.main-container {
 <div id="htmlwidget-4" class="reactable html-widget" style="width:auto;height:600px;"></div>
 <script type="application/json" data-for="htmlwidget-4">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"person_id":["P001","P001","P002","P002","P002","P003","P003","P003","P003",null,null,null,null,null,null,null,null,null,null,null],"date_curated":["2021-05-02T00:00:00Z","2021-07-27T00:00:00Z","2021-08-20T00:00:00Z","2021-07-30T00:00:00Z","2022-07-30T00:00:00Z","2021-01-01T00:00:00Z","2021-01-25T00:00:00Z","2021-04-01T00:00:00Z","2021-10-12T00:00:00Z",null,null,null,null,null,null,null,null,null,null,null],"dose_curated":[1,2,1,2,1,1,2,3,4,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"],"manufacturer_curated":[null,null,"pfizer","pfizer",null,"astrazeneca","astrazeneca","pfizer","moderna",null,null,null,null,null,null,null,null,null,null,null],"vacco_id":["DIP-PER-TET","DIP-PER-TET","COV","COV","HPV","COV","COV","COV","COV",null,null,null,null,null,null,null,null,null,null,null],"root_indicator":["DPT","DPT","Coronavirus","Coronavirus","HPV ","Coronavirus","Coronavirus","Coronavirus","Coronavirus",null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"person_id","name":"person_id","type":"character"},{"id":"date_curated","name":"date_curated","type":"Date"},{"id":"dose_curated","name":"dose_curated","type":"numeric"},{"id":"manufacturer_curated","name":"manufacturer_curated","type":"character"},{"id":"vacco_id","name":"vacco_id","type":"character"},{"id":"root_indicator","name":"root_indicator","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"7b16e4dd1f92d1eea0529a454b405855"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
-
-            <footer class="footline">
-
-            </footer>
-          </article>
-
-          <article class="codebook">
-            <header class="headline">
-            </header>
-<h1 id="flowchart_criteria_for_all_vaccines">Flowchart_criteria_for_all_vaccines</h1>
-
-<div class="tabcontent"></div>
 
             <footer class="footline">
 

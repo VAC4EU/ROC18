@@ -6,7 +6,7 @@
     <description>Recent content on ROC18 Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_index.en</title>
       <link>/step_1/index.html</link>
@@ -40,16 +40,21 @@ QC_all_components_OUTCOMEOccurrence of components of the outcome OUTCOME during 
       <link>/step_4/index.html</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_4/index.html</guid>
-      <description>D3_Total_study_populationstudy population with entry and exit dates, date of birth, gender, dates and type of vaccinations
-D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_target_cohortscontains the list of persons in the study population, with study entry and exit dates, and entry and exit from all the cohorts for incidence/prevalence and for coverage
- </description>
+      <description>D3_Total_study_populationstudy population with entry and exit dates, date of birth, gender, dates and type of vaccinations
+D3_TD_allcontains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active</description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_5/index.html</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_5/index.html</guid>
-      <description>D4_counts_persontime_yearlyD4_counts_persontime_yearly_aggregatedD4_count_events_point_prevalenceD4_events_point_prevalence_aggregatedD4_count_events_period_prevalenceD4_events_period_prevalence_aggregatedD4_monthly_prevalence_vaccination_cohortfor each study cohort and each indicator: persons in the cohort at entry and monthly, monthly prevalence of use of vaccine, and cumulative prevalence of use of vaccine
+      <description>D4_counts_persontime_yearlycontains the persontime observed each year in all the strata from start to end of study
+D4_counts_persontime_yearly_aggregatedcontains the persontime observed each year in all the strata from start to end of study
+D4_count_events_point_prevalenceNA
+D4_events_point_prevalence_aggregatedNA
+D4_count_events_period_prevalenceNA
+D4_events_period_prevalence_aggregatedNA
+D4_monthly_prevalence_vaccination_cohortfor each study cohort and each indicator: persons in the cohort at entry and monthly, monthly prevalence of use of vaccine, and cumulative prevalence of use of vaccine
  </description>
     </item>
     <item>
@@ -57,15 +62,20 @@ D3_TD_allD3_TD_covariates_completeD3_TD_events_completeD3_study_population_ta
       <link>/step_6/index.html</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_6/index.html</guid>
-      <description>D5_IR_yearlyD5_IR_yearly_stdD5_Pre_point_backgroundD5_Pre_period_backgroundD5_Pre_point_background_stdD5_Pre_period_background_stdD5_vaccine_coverage_cohortsfor each study cohort and each indicator: monthly prevalence and estimated monthly prevalence with inverse-probability weighting (Braeye et al, Vaccine. 2020)
- </description>
+      <description>D5_IR_yearlyNA
+D5_IR_yearly_stdNA
+D5_Pre_point_backgroundPoint prevalence estimates will be calculated at the start of each year: the numerator is the persons with the disease in the year prior, denominator is all persons present at the start of each calendar year.
+D5_Pre_period_backgroundPoint prevalence estimates will be calculated at the start of each year: the numerator is the persons with the disease in the year prior, denominator is all persons present at the start of each calendar year.</description>
     </item>
     <item>
       <title>_index.en</title>
       <link>/step_7/index.html</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/step_7/index.html</guid>
-      <description>Table_1_flowchartTable_2_code_countsTable_3_population </description>
+      <description>Table_1_flowchartFlowchart
+Table_2_code_countscount of codes for each AESI or NCO
+Table_3_populationcharacteristics at baseline
+ </description>
     </item>
   </channel>
 </rss>
